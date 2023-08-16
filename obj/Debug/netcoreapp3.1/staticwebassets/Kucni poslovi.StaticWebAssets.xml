@@ -1,0 +1,8 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\malbasa\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.3\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/BlazorFabric.BaseComponent" Path="C:\Users\malbasa\.nuget\packages\blazorfabric.basecomponent\3.0.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/BlazorFabric.FocusZone" Path="C:\Users\malbasa\.nuget\packages\blazorfabric.focuszone\3.0.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/BlazorFabric.Icon" Path="C:\Users\malbasa\.nuget\packages\blazorfabric.icon\3.0.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/BlazorFabric.Rating" Path="C:\Users\malbasa\.nuget\packages\blazorfabric.rating\3.0.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor" Path="C:\Users\malbasa\.nuget\packages\syncfusion.blazor\18.1.0.59\build\..\staticwebassets\" />
+</StaticWebAssets>
